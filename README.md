@@ -168,7 +168,9 @@ Give it a ⭐ on GitHub and share with others!
 
 [🔗 Visit Live App](https://dry-fish-jhnnet.streamlit.app/)
 
-![App Screenshot](https://your-image-link-here.png)
+![App Screenshot](https://github.com/jakirniloy/Dry-Fish-Image--Data-Driven-Analysis-and-Deep-Learning-Based-Classification/blob/main/Image/Screenshot%202026-04-10%20112908.png)
+![App Screenshot](https://github.com/jakirniloy/Dry-Fish-Image--Data-Driven-Analysis-and-Deep-Learning-Based-Classification/blob/main/Image/Screenshot%202026-04-10%20112935.png)
+
 
 
 
