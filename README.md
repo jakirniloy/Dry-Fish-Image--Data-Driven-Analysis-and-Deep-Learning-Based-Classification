@@ -166,7 +166,10 @@ Give it a ⭐ on GitHub and share with others!
 
 ## 🌐 Website
 
+[🔗 Visit Live App](https://dry-fish-jhnnet.streamlit.app/)
+
 ![App Screenshot](https://your-image-link-here.png)
+
 
 
 
