@@ -3,6 +3,7 @@ numpy
 opencv-python-headless
 Pillow
 pandas
+tensorflow==2.15.0
 
 
 
